@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sysevent_email_template">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
     <sysevent_email_template action="INSERT_OR_UPDATE">
         <collection>x_58872_needit_needit_task</collection>
         <email_layout/>

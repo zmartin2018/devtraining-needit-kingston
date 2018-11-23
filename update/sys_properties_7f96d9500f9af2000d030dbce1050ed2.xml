@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_properties">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
     <sys_properties action="INSERT_OR_UPDATE">
         <choices>7,14,21,28</choices>
         <description>Number of days a NeedIt Task is overdue before it should automatically close.</description>

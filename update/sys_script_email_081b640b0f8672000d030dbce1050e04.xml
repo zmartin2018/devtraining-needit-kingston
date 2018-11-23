@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_script_email">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
     <sys_script_email action="INSERT_OR_UPDATE">
         <name>CountOverdueNeedItTasksAssignedto</name>
         <new_lines_to_html>false</new_lines_to_html>
